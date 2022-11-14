@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8284179b97871110cf38f0b0f053af99" sys_domain="global" table="x_300454_visa_app_visa_application" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-14 12:51:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8284179b97871110cf38f0b0f053af9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_300454_visa_app_visa_application" name="x_300454_visa_app_visa_application" sys_domain="global" view="b0c2139a97c31110cf38f0b0f053afd2">8284179b97871110cf38f0b0f053af99</sys_ui_form>
+            <sys_ui_section caption="Family Details" display_value="Family Details" name="x_300454_visa_app_visa_application" sys_domain="global" view="b0c2139a97c31110cf38f0b0f053afd2">3e4fdfba4fba23008f3133718110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-14 12:51:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-14 12:51:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e84179b97871110cf38f0b0f053af9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_300454_visa_app_visa_application" name="x_300454_visa_app_visa_application" sys_domain="global" view="b0c2139a97c31110cf38f0b0f053afd2">8284179b97871110cf38f0b0f053af99</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_300454_visa_app_visa_application" sys_domain="global" view="b0c2139a97c31110cf38f0b0f053afd2">60a108574ff263008f3133718110c764</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-14 12:51:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-14 12:51:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca84179b97871110cf38f0b0f053afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_300454_visa_app_visa_application" name="x_300454_visa_app_visa_application" sys_domain="global" view="b0c2139a97c31110cf38f0b0f053afd2">8284179b97871110cf38f0b0f053af99</sys_ui_form>
+            <sys_ui_section caption="Application Contact Details" display_value="Application Contact Details" name="x_300454_visa_app_visa_application" sys_domain="global" view="b0c2139a97c31110cf38f0b0f053afd2">864a5bf64fba23008f3133718110c73f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-14 12:51:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_300454_visa_app_visa_application</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-14 12:51:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8284179b97871110cf38f0b0f053af99</sys_id>
+            <sys_name>x_300454_visa_app_visa_application</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8284179b97871110cf38f0b0f053af99</sys_update_name>
+            <sys_user/>
+            <view display_value="Extended View" name="extended_view">b0c2139a97c31110cf38f0b0f053afd2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
